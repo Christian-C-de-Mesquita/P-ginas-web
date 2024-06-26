@@ -1,0 +1,19 @@
+{
+    "produto": [
+        { 
+        "id": 1, 
+        "nome": "Notebook Acer", 
+        "quantidade": 10, 
+        "preco": 3.500, 
+        "descricao": "Ativo", 
+        "status": "I5 de 10th gen, 512GB com 8 de ram"
+        },
+        { "id": 2, 
+        "nome": "TV Led", 
+        "quantidade": 5, 
+        "preco": 4.000, 
+        "descricao": "Ativo", 
+        "status": "Samsung Oled 64Polegadas"
+        }
+    ]
+}
